@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 
-<coverage line-rate="0.44155844155844154" branch-rate="1.0" lines-covered="34" lines-valid="77" branches-covered="16" branches-valid="16" complexity="2.2222222222222223" version="2.1.1" timestamp="1458312126424">
+<coverage line-rate="0.44155844155844154" branch-rate="1.0" lines-covered="34" lines-valid="77" branches-covered="16" branches-valid="16" complexity="2.2222222222222223" version="2.1.1" timestamp="1458313634485">
 	<sources>
-		<source>/home/ad/fshome4/u4/o/oemkulma/Linux/klooniRepo/OhtuVarasto/src/main/java</source>
 		<source>--source</source>
+		<source>/home/ad/fshome4/u4/o/oemkulma/Linux/klooniRepo/src/main/java</source>
 	</sources>
 	<packages>
 		<package name="ohtu.ohtuvarasto" line-rate="0.44155844155844154" branch-rate="1.0" complexity="2.2222222222222223">
